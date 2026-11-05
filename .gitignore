@@ -11,3 +11,7 @@ wheels/
 
 # Local secrets
 .env
+
+# Generated agent output
+outputs/
+reports/
